@@ -37,3 +37,6 @@ Or you can add to your user preferences:
         "color_scheme": "GhettoCoffeeScript.tmTheme"
     }
 
+## License
+
+MIT © [Duncan Beaton](http://dunckr.com)
