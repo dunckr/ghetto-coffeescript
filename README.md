@@ -24,7 +24,7 @@ Then either create a `ghetto-coffeescript` folder within this directory and copy
 
 To use the colour scheme you can either select from the preferences:
 
-    `Sublime Text -> Preferences -> Color Scheme -> ghetto-coffeescript -> GhettoCoffeeScript `
+    Sublime Text -> Preferences -> Color Scheme -> ghetto-coffeescript -> GhettoCoffeeScript
 
 Or you can add to your user preferences:
 
