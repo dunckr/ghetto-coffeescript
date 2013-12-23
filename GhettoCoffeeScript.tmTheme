@@ -141,6 +141,19 @@
                         </dict>
                         <dict>
                                 <key>name</key>
+                                <string>CoffeeScript Class name</string>
+                                <key>scope</key>
+                                <string>entity.name.type.class.coffee</string>
+                                <key>settings</key>
+                                <dict>
+                                        <key>fontStyle</key>
+                                        <string>underline</string>
+                                        <key>foreground</key>
+                                        <string>#0080ff</string>
+                                </dict>
+                        </dict>
+                        <dict>
+                                <key>name</key>
                                 <string>Class name</string>
                                 <key>scope</key>
                                 <string>entity.name.class</string>
